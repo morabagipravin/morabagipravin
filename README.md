@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pravin 👋  <br><br>🚀 Final-Year Computer Engineering Student<br>💻 Full-Stack Developer | MERN Stack | Open-Source Enthusiast
+Hi, I'm Pravin 👋  <br><br>🚀 Computer Engineering Graduate<br>💻 Full-Stack Developer | MERN Stack
 
 
 ## 🌐 Socials:
